@@ -1,0 +1,3 @@
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/cmake-build-debug/CMakeFiles/src.dir
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/cmake-build-debug/CMakeFiles/rebuild_cache.dir

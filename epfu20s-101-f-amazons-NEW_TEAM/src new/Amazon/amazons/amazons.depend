@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1591586948 source:c:\users\dinara\desktop\amazons\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<time.h>
+	"getline.h"
+	"autonomous.h"
+	"interactive.h"
+
+1591497885 c:\users\dinara\desktop\amazons\getline.h
+
+1591546327 c:\users\dinara\desktop\amazons\interactive.h
+
+1591586275 c:\users\dinara\desktop\amazons\autonomous.h
+

@@ -1,0 +1,80 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Board/boardUtils.c
+boardUtils.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Board/boardUtils.h
+
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Board/boardUtils.h
+../UTILS/structs.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/UTILS/structs.h
+../UTILS/IOUtils.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/UTILS/IOUtils.h
+
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Moves/movesPossibility.c
+movesPossibility.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Moves/movesPossibility.h
+
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Moves/movesPossibility.h
+../UTILS/structs.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/UTILS/structs.h
+
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Moves/movesUtils.c
+movesUtils.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Moves/movesUtils.h
+
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Moves/movesUtils.h
+../UTILS/structs.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/UTILS/structs.h
+movesPossibility.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Moves/movesPossibility.h
+../UTILS/IOUtils.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/UTILS/IOUtils.h
+../Board/boardUtils.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Board/boardUtils.h
+
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Players/playersUtils.c
+playersUtils.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Players/playersUtils.h
+
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Players/playersUtils.h
+../UTILS/structs.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/UTILS/structs.h
+../Board/boardUtils.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Board/boardUtils.h
+../UTILS/IOUtils.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/UTILS/IOUtils.h
+
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/UTILS/IOUtils.c
+IOUtils.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/UTILS/IOUtils.h
+
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/UTILS/IOUtils.h
+structs.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/UTILS/structs.h
+
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/UTILS/constants.h
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/UTILS/structs.h
+constants.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/UTILS/constants.h
+
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/interactiveGame.c
+UTILS/structs.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/UTILS/structs.h
+Board/boardUtils.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Board/boardUtils.h
+Moves/movesUtils.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Moves/movesUtils.h
+Players/playersUtils.h
+C:/Users/marci/OneDrive/Marcin/Studia/PW/EPFU/AmazonsGIT/src/Interactive TUI/Players/playersUtils.h
+
