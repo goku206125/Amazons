@@ -20,4 +20,4 @@
 	* Output is not saved in any file
 	* ISSUES
 	* Firing arrows could not be implemented	
-### Created by Aayush Gupta and Sanjarbek Doniyorov (Leader)
+### Created by Aayush Gupta.
